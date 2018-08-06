@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "firstname": "swati",
+      "lastname": "desale",
+      "address": "pune",
+      "city": "dhule",
+      "state": "maharashtra",
+      "zip": "424002",
+      "phone": "9890298760"
+    },
+    {
+      "firstname": "ashwini",
+      "lastname": "desale",
+      "address": "wakad",
+      "city": "pune",
+      "state": "maharashtra",
+      "zip": "424011",
+      "phone": "9975915788"
+    },
+    {
+      "firstname": "Rishi",
+      "lastname": "Desale",
+      "address": "Akurdi",
+      "city": "Dhule",
+      "state": "maharashtra",
+      "zip": "424011",
+      "phone": "9552505881"
+    },
+    {
+      "firstname": "abc",
+      "lastname": "pqr",
+      "address": "ana",
+      "city": "mumbai",
+      "state": "maharashtra",
+      "zip": "2222",
+      "phone": "99999999"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+    "appointment": [
+        {
+            "doctor": {
+                "name": "Deepak",
+                "id": "101",
+                "specialization": "MBBS",
+                "availability": "10PM"
+            },
+            "patient": {
+                "name": "Swati",
+                "id": "1",
+                "phone": "9890298760",
+                "age": "24"
+            },
+            "date": "2018-08-01"
+        },
+        {
+            "doctor": {
+                "name": "Deepak",
+                "id": "101",
+                "specialization": "MBBS",
+                "availability": "10PM"
+            },
+            "patient": {
+                "name": "Ashwini",
+                "id": "2",
+                "phone": "9552505881",
+                "age": "26"
+            },
+            "date": "2018-08-01"
+        },
+        {
+            "doctor": {
+                "name": "Deepak",
+                "id": "101",
+                "specialization": "MBBS",
+                "availability": "10PM"
+            },
+            "patient": {
+                "name": "Ankita",
+                "id": "3",
+                "phone": "9975915788",
+                "age": "24"
+            },
+            "date": "2018-08-01"
+        },
+        {
+            "doctor": {
+                "name": "Deepak",
+                "id": "101",
+                "specialization": "MBBS",
+                "availability": "10PM"
+            },
+            "patient": {
+                "name": "Swati",
+                "id": "1",
+                "phone": "9890298760",
+                "age": "24"
+            },
+            "date": "2018-08-01"
+        },
+        {
+            "doctor": {
+                "name": "Deepak",
+                "id": "101",
+                "specialization": "MBBS",
+                "availability": "10PM"
+            },
+            "patient": {
+                "name": "Ankita",
+                "id": "3",
+                "phone": "9975915788",
+                "age": "24"
+            },
+            "date": "2018-08-01"
+        },
+        {
+            "doctor": {
+                "name": "Surywanshi",
+                "id": "102",
+                "specialization": "MD",
+                "availability": "12PM"
+            },
+            "patient": {
+                "name": "Swati",
+                "id": "1",
+                "phone": "9890298760",
+                "age": "24"
+            },
+            "date": "2018-08-02"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+  "stock": [
+    {
+      "stockName": "abc",
+      "noofShares": "2",
+      "sharePrice": "2000"
+    },
+    {
+      "stockName": "cbd",
+      "noofShares": "3",
+      "sharePrice": "3000"
+    },
+    {
+      "stockName": "pqr",
+      "noofShares": "5",
+      "sharePrice": "5000"
+    },
+    {
+      "stockName": "lmn",
+      "noofShares": "2",
+      "sharePrice": "7000"
+    },
+    {
+      "stockName": "hij",
+      "noofShares": "2",
+      "sharePrice": "2500"
+    },
+    {
+      "stockName": "sss",
+      "noofShares": "5",
+      "sharePrice": "1000"
+    }
+  ]
+}
